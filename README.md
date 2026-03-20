@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tony Omokhoje Roland👋
 
-<!--
-**Toromo7/Toromo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | ICT Instructor | Electrical Engineer (HND)
 
-Here are some ideas to get you started:
+I am a passionate **Web Developer** and **ICT Educator** based in Kaduna, Nigeria. I bridge the gap between complex technical concepts and functional, beautiful digital solutions. Presently undergoing a PGDE course on Information Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Currently building:** A professional web and graphic design portfolio.
+- 🏫 **Teaching:** ICT and Computer Hardware at Harmony International Schools.
+- 🛠️ **Tech Stack:** HTML5, CSS3 (Flexbox/Grid), JavaScript, and Figma.
+- 🔧 **Hardware Expert:** Motherboard diagnostics, GSM maintenance, and repair.
+
+---
+### 🚀 My Featured Projects
+- Website Portfolio](https://github.com/Toromo7/Website-Portfolio - My latest responsive personal site.
+- ICT Lesson Plans](https://github.com/Toromo7/ICT-Education - Structured curriculum for Nigerian secondary students.
+
+---
+📫 **How to reach me:** juniorroland4real@gmail.com
